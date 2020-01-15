@@ -1,0 +1,104 @@
+*{
+    background-color:   #b3ecff ;
+}
+
+.header-logo{
+font-size: 80px;
+text-align: left;
+font-style: italic;
+height: 100px;
+padding:0 0 0 150px;
+}
+
+.copy-container {
+    background-image: url("../h.jpg");
+    background-position: center;
+    height: 500px;
+}
+
+.copy-container h1{
+    color: teal ;
+    font-size: 60px;
+    font-style: "ErasDemiITC" ;
+}
+
+.copy-container h1:hover{
+    background-color:  #260d1a;
+    padding:0 300px 0 300px;
+}
+
+.contents-item img{
+    padding:0px 300px 0px 300px;
+    width: 800px;
+    height: 500px;
+}
+
+.contents-item img:hover{
+    background-color: #993333	;
+}
+
+.copy-container p{
+color:#0a2929;
+font-style: normal;
+font-size:30px ;
+}
+
+.section-title{
+    font-style: unset;
+    color: teal;
+    font-size :60px;
+}
+.section-title:hover{
+    background-color:  #260d1a;
+    padding:0 300px 0 300px;
+}
+
+.contents-item{
+    color:#6b6166	 ;
+    
+}
+.contents-item h4{
+font-size: 40px;
+font-style: initial;
+text-align: center;
+padding:0px 0 40px 0;
+}
+
+.contents-item h5{
+    font-size:40px ;
+    font-style: initial;
+    text-align: center;
+    padding:0px 0 40px 0;
+}
+
+.contents-item h2{
+    font-size: 40px;
+    font-style: initial;
+    text-align: center;
+    padding:0px 0 40px 0;
+}
+
+.contents-item h6{
+    font-size: 40px;
+    font-style: initial;
+    text-align: center;
+    padding:0px 0 40px 0;
+}
+
+.contact-form p{
+    font-size:40px ;
+    color:teal	 ;
+}
+.footer-list li{
+    font-size:20px ;
+    color:#9f6060	;
+}
+
+.footer-logo{
+    font-size:10px;
+}
+
+
+
+
+
